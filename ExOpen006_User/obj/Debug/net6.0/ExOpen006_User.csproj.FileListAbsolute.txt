@@ -1,0 +1,15 @@
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\bin\Debug\net6.0\ExOpen006_User.exe
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\bin\Debug\net6.0\ExOpen006_User.deps.json
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\bin\Debug\net6.0\ExOpen006_User.runtimeconfig.json
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\bin\Debug\net6.0\ExOpen006_User.dll
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\bin\Debug\net6.0\ExOpen006_User.pdb
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.csproj.AssemblyReference.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.AssemblyInfoInputs.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.AssemblyInfo.cs
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.csproj.CoreCompileInputs.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.dll
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\refint\ExOpen006_User.dll
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.pdb
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ExOpen006_User.genruntimeconfig.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen006_User\obj\Debug\net6.0\ref\ExOpen006_User.dll
