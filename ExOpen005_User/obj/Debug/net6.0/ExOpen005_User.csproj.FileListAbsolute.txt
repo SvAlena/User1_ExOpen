@@ -1,0 +1,15 @@
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.csproj.AssemblyReference.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.AssemblyInfoInputs.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.AssemblyInfo.cs
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.csproj.CoreCompileInputs.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\bin\Debug\net6.0\ExOpen005_User.exe
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\bin\Debug\net6.0\ExOpen005_User.deps.json
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\bin\Debug\net6.0\ExOpen005_User.runtimeconfig.json
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\bin\Debug\net6.0\ExOpen005_User.dll
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\bin\Debug\net6.0\ExOpen005_User.pdb
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.dll
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\refint\ExOpen005_User.dll
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.pdb
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ExOpen005_User.genruntimeconfig.cache
+C:\Users\SvAlena\Desktop\ExOpen\ExOpen005_User\obj\Debug\net6.0\ref\ExOpen005_User.dll
