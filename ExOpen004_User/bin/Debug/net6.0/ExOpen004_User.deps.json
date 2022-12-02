@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExOpen004_User/1.0.0": {
+        "runtime": {
+          "ExOpen004_User.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExOpen004_User/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
